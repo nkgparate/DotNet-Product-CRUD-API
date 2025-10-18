@@ -1,0 +1,35 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.vssscc
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+
+# EF Core Migrations (optional)
+Migrations/
+
+# Logs
+*.log
+
+# Test Results
+TestResults/
+*.trx
+
+# Publish output
+publish/

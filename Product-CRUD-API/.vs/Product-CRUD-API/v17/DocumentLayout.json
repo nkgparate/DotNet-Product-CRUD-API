@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|g:\\turing-github-repos\\dot net\\dotnet-product-crud-api\\product-crud-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C0E92-F235-4F4C-9193-E11A04206647}|Product-CRUD-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAnwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:43:41.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:43:14.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:42:59.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:42:44.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:41:56.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T09:34:43.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:44:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Tests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ProductServiceTests.cs",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Tests\\ProductServiceTests.cs",
+              "RelativeToolTip": "Tests\\ProductServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:44:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\TURING-GITHUB-REPOS\\dot net\\DotNet-Product-CRUD-API\\Product-CRUD-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:35:00.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
