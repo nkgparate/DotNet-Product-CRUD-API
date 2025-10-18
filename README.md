@@ -21,9 +21,9 @@ Supports CRUD operations and follows clean architecture principles.
 - xUnit (unit testing)
 
 ## Folder Structure
-Controllers/ -> API controllers
-Models/ -> Product entity
-DTOs/ -> Data transfer objects
-Data/ -> DbContext for EF Core
-Services/ -> Business logic
-Migrations/ -> EF Core database migrations
+- Controllers/ -> API controllers
+- Models/ -> Product entity
+- DTOs/ -> Data transfer objects
+- Data/ -> DbContext for EF Core
+- Services/ -> Business logic
+- Migrations/ -> EF Core database migrations
