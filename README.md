@@ -69,13 +69,12 @@ https://localhost:5001/swagger/index.html
 
 ---
 
-## API Endpoints
-Method	Endpoint	Description
-GET	/api/products	Get all products
-GET	/api/products/{id}	Get product by ID
-POST	/api/products	Create new product
-PUT	/api/products/{id}	Update product
-DELETE	/api/products/{id}	Delete product
-
+## Tech Stack
+- .NET Core 7  
+- C#  
+- Entity Framework Core  
+- SQL Server  
+- Swagger UI  
+- xUnit (Unit Testing)  
 
 
