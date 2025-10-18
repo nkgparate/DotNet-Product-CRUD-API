@@ -46,18 +46,30 @@ git clone https://github.com/<username>/Product-CRUD-API.git
 ```bash
 cd Product-CRUD-API
 ```
-3. Update the connection string in `appsettings.json`:
+3. Install the Nuget Packages:
+```bash
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Swashbuckle.AspNetCore
+dotnet add package xunit
+dotnet add package xunit.runner.visualstudio
+dotnet add package Moq
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
+
+4. Update the connection string in `appsettings.json`:
 ```json
 "ConnectionStrings": {
     "DefaultConnection": "Server=.;Database=ProductDb;Trusted_Connection=True;"
 }
 ```
-4. Apply migrations and run the project:
+5. Apply migrations and run the project:
 ```bash
 dotnet ef database update
 dotnet run
 ```
-5. Open Swagger UI for API testing:
+6. Open Swagger UI for API testing:
 ```
 https://localhost:5001/swagger/index.html
 ```
