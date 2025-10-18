@@ -57,6 +57,7 @@ dotnet add package xunit
 dotnet add package xunit.runner.visualstudio
 dotnet add package Moq
 dotnet add package Microsoft.EntityFrameworkCore.InMemory
+```
 
 4. Update the connection string in `appsettings.json`:
 ```json
