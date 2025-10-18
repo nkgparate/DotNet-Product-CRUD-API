@@ -1,62 +1,46 @@
 # DotNet-Product-CRUD-API
 
+![.NET](https://img.shields.io/badge/.NET-7.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 ## Description
-A simple RESTful API built with .NET Core for managing products.  
-Supports CRUD operations and follows clean architecture principles.
+Product-CRUD-API is a simple, clean, and scalable RESTful API built with .NET Core for managing products.  
+Supports all CRUD operations and follows clean architecture principles, making it ideal for showcasing backend development skills for global clients.
+
+---
 
 ## Features
 - Create, Read, Update, Delete (CRUD) products
 - RESTful API endpoints
-- Validation for input data
-- Error handling
-- EF Core integration with SQL Server
-- Unit tests for core functionalities
+- Input validation and error handling
+- Entity Framework Core integration with SQL Server
+- Unit tests using xUnit
+- API documentation with Swagger
+
+---
 
 ## Tech Stack
-- .NET Core 7
-- C#
-- Entity Framework Core
-- SQL Server
-- Swagger (API documentation)
-- xUnit (unit testing)
+- .NET Core 7  
+- C#  
+- Entity Framework Core  
+- SQL Server  
+- Swagger UI  
+- xUnit (Unit Testing)  
+
+---
 
 ## Folder Structure
-- Controllers/ -> API controllers
-- Models/ -> Product entity
-- DTOs/ -> Data transfer objects
-- Data/ -> DbContext for EF Core
-- Services/ -> Business logic
-- Migrations/ -> EF Core database migrations
 
-  
-## Installation / Setup
-1. Clone the repo:
-```bash
-git clone https://github.com/<username>/Product-CRUD-API.git
-
-2. Navigate to project directory:
-cd Product-CRUD-API
-
-3. Update connection string in appsettings.json:
-
-"ConnectionStrings": {
-    "DefaultConnection": "Server=.;Database=ProductDb;Trusted_Connection=True;"
-}
-
-4.Apply migrations and run the project:
-
-dotnet ef database update
-dotnet run
-Open Swagger UI for testing: https://localhost:5001/swagger/index.html
-
-## API Endpoints
-
-| Method | Endpoint           | Description        |
-| ------ | ------------------ | ------------------ |
-| GET    | /api/products      | Get all products   |
-| GET    | /api/products/{id} | Get product by ID  |
-| POST   | /api/products      | Create new product |
-| PUT    | /api/products/{id} | Update product     |
-| DELETE | /api/products/{id} | Delete product     |
-
+Product-CRUD-API/
+├── Controllers/ -> API controllers
+├── Models/ -> Product entity
+├── DTOs/ -> Data Transfer Objects
+├── Services/ -> Business logic
+├── Data/ -> EF Core DbContext
+├── Migrations/ -> EF Core migrations
+├── Product-CRUD-API.sln
+├── Program.cs
+├── appsettings.json
+└── README.md
 
