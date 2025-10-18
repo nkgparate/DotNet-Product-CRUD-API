@@ -52,5 +52,9 @@ Product-CRUD-API/
 ```bash
 git clone https://github.com/<username>/Product-CRUD-API.git
 
+2. Navigate to project directory:
+```bash
+cd Product-CRUD-API
+
 
 
